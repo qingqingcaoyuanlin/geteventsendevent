@@ -6,6 +6,7 @@
 #include <sys/ioctl.h>
 #include <sys/time.h>
 #include <unistd.h>
+#include <asm/types.h>
 //#include <linux/input.h> // this does not compile
 #include <errno.h>
 // from <linux/input.h>
